@@ -1,17 +1,12 @@
 # task_week4
 
-A new Flutter project.
+latihan 1 - identitas aplikasi. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+disini saya telah berhasil mengubah nama apliakasi menjadi "Aplikasi Mahasiwa" 
+dan sudah mengubah teks ditengah menjadi nama saya sendiri 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Screenshot Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot Aplikasi](assets/latihan1.png)
