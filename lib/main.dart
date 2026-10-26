@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,6 +12,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Aplikasi Mahasiswa',
       debugShowCheckedModeBanner: false,
+
+      theme: ThemeData.dark(),
 
       home: Scaffold(
         appBar: AppBar(
