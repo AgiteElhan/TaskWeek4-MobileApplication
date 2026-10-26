@@ -15,6 +15,11 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
 
       home: Scaffold(
+        appBar: AppBar(
+          title: const Text('Dashboard Mahasiswa'),
+          backgroundColor: Colors.red,
+          foregroundColor: Colors.white,
+        ),
         body: const Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
