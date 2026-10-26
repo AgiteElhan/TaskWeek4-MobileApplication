@@ -37,4 +37,12 @@ menggunakan theme.Darkmode()
 
 ![Screenshot Aplikasi](assets/latihan4.png)
 
+latihan 5 - halaamna profil
+
+disini saya sudah membuat class profile pag yang berisi nama saya
+dan lalu untuk memanggilnya saya memanggil di dalam class myApp hanya 
+home: const ProfilePage()  
+
+![Screenshot Aplikasi](assets/latihan5.png)
+
 
