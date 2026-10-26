@@ -19,3 +19,12 @@ menggunnakan textStyle
 
 
 ![Screenshot Aplikasi](assets/latihan2.png)
+
+
+latihan 3 - app bar
+
+disini saya berhasil membuat appbar bernama "Dashboard Mahasiswa" dan warna background saya ubah 
+menjadi warna merah
+
+
+![Screenshot Aplikasi](assets/latihan3.png)
