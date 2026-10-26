@@ -28,3 +28,13 @@ menjadi warna merah
 
 
 ![Screenshot Aplikasi](assets/latihan3.png)
+
+
+latihan 4 - darkmode
+
+disini saya berhasil mengubah theme yang tadinya light warna putih menjadi dark 
+menggunakan theme.Darkmode()
+
+![Screenshot Aplikasi](assets/latihan4.png)
+
+
