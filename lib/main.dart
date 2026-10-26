@@ -14,13 +14,6 @@ class MyApp extends StatelessWidget {
       title: 'Aplikasi Mahasiswa',
       debugShowCheckedModeBanner: false,
 
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.red,
-        ),
-        useMaterial3: true,
-      ),
-
       home: Scaffold(
         body: const Center(
           child: Column(
@@ -29,8 +22,6 @@ class MyApp extends StatelessWidget {
               Text(
                 'Agit Elhandinnata',
                 style: TextStyle(
-                  fontSize: 24,
-                  fontWeight: FontWeight.bold,
                   color: Colors.red,
                 ),
               ),
